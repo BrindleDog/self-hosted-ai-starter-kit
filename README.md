@@ -25,6 +25,10 @@ store with an comprehensive API
 ✅ [**PostgreSQL**](https://www.postgresql.org/) -  Workhorse of the Data
 Engineering world, handles large amounts of data safely.
 
+✅ [**Faster-Whisper**](https://github.com/SYSTRAN/faster-whisper) - Iis a 
+reimplementation of OpenAI's Whisper model using CTranslate2, which is a
+fast inference engine for Transformer models.
+
 ### What you can build
 
 ⭐️ **AI Agents** for scheduling appointments
